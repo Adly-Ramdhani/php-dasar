@@ -7,3 +7,4 @@ echo "waktu yang ditempuh " , $waktu , " detik";
 ?>
 
 
+ 
